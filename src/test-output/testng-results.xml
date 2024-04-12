@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-25T03:18:45Z" name="Suite" finished-at="2024-03-25T03:18:45Z" duration-ms="49">
+    <groups>
+    </groups>
+    <test started-at="2024-03-25T03:18:45Z" name="Test" finished-at="2024-03-25T03:18:45Z" duration-ms="49">
+      <class name="com.google.meet.Test_Case">
+        <test-method signature="Testcase()[pri:0, instance:com.google.meet.Test_Case@574b560f]" started-at="2024-03-24T20:18:45Z" name="Testcase" finished-at="2024-03-24T20:18:45Z" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase -->
+      </class> <!-- com.google.meet.Test_Case -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
